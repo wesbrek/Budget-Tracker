@@ -1,7 +1,8 @@
 import React from 'react';
+import { NavbarDesktop } from './NavbarDesktop';
 
 const Navbar = () => {
-  return <div>Navbar</div>;
+  return <NavbarDesktop />;
 };
 
 export default Navbar;
